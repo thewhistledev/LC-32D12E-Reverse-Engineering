@@ -1,0 +1,2206 @@
+ee4Def4
+4ed4<eg4
+"0123456789abcdef
+"ASSERT %s %d
+Rj!CRle
+0123456789ABCDEF
+<HhC4(
+JB$!(b
+LMF$!8`
+LMD$!(
+ D$!(`
+4 D$!(`
+` D$!(`
+ D$!(`
+ D$!(`
+ D$!(`
+ d$!(@
+!D$!(`
+,!D$!(`
+D!D$!(`
+`!D$!(`
+!D$!(`
+!D$!(`
+!D$!(`
+!D$!(`
+"D$!(`
+8"D$!(`
+\"D$!(`
+"D$!(`
+"D$!(`
+"D$!(`
+#D$!(`
+,#D$!(`
+T#D$!(`
+|#D$!(`
+#D$!(`
+#D$!(`
+$D$!(`
+0$D$!(`
+\$D$!(`
+$D$!(`
+$D$!(`
+$D$!(`
+$D$!(`
+%D$!(`
+<%D$!(`
+d%D$!(`
+%D$!(`
+%D$!(`
+%D$!(`
+LMD$!(
+LMD$!(
+LMD$!(
+L]F$!8`
+L]D$!(
+D&D$!(`
+|&D$!(`
+&D$!(`
+L]D$!(
+L]D$!(
+L]D$!(
+%E$!0`
+&D$!(`
+&D$!(`
+'D$!(`
+'D$!(`
+'D$!(`
+('D$!(`
+\'D$!(`
+'D$!(`
+'D$!(`
+'D$!(`
+'D$!(`
+)D$!(`
+*D$!(`
+0+D$!(`
+,D$!(`
+<,E$!0`
+@,D$!(`
+L,D$!(`
+x,D$!(
+p-D$!(`
+.D$!(`
+@.D$!(
+@1D$!(`
+1D$!(`
+`2D$!(`
+D3D$!(`
+t3D$!(`
+4D$!(`
+4D$!(`
+45D$!(`
+x6D$!(`
+7D$!(`
+L9E$!0`
+T9E$!0`
+\9E$!0`
+h9E$!0`
+9D$!8`
+D:D$!(`
+d;D$!(`
+,<D$!(`
+l<D$!(`
+=D$!(`
+=D$!(`
+ >D$!(`
+\mD$!(
+?D$!(`
+<D$!(`
+ AD$!(`
+?D$!(`
+<D$!(`
+AD$!(`
+ BD$!(`
+LBE$!0`
+JD$!(`
+JD$!(`
+JD$!(`
+JD$!(`
+KD$!(`
+JD$!(`
+JD$!(`
+JD$!(`
+0LD$!(`
+JD$!(`
+LD$!(`
+JD$!(`
+JD$!(`
+JD$!(`
+JD$!(`
+JD$!(`
+pQD$!(`
+RD$!(`
+RD$!(`
+RD$!(`
+<RD$!(`
+ SD$!(`
+8Sd$!(@
+@SD$!(`
+UD$!(`
+UD$!(`
+(VD$!(`
+4VD$!(`
+dVD$!(`
+(VD$!(`
+(VD$!(`
+<WD$!(`
+Wd$!(@
+<^D$!(`
+X^D$!(`
+<^D$!(`
+L_D$!(`
+p_D$!(`
+paD$!(`
+|aD$!(`
+fD$!(`
+fD$!(`
+fD$!(`
+fD$!(`
+fD$!(`
+gD$!(`
+$gD$!(`
+$gD$!(`
+gD$!(`
+gD$!(`
+$gD$!(`
+hD$!0`
+,hD$!(`
+$gD$!(`
+hD$!0`
+,hD$!(`
+$gD$!(`
+$gD$!(`
+$gD$!(`
+$gD$!(`
+hD$!(`
+$iD$!(`
+DiD$!(`
+$gD$!(`
+$gD$!(`
+ sD$!(`
+PsD$!(
+psD$!8`
+sD$!(`
+sD$!0`
+sD$!8`
+tD$!(`
+|tD$!(`
+tD$!0`
+uD$!(`
+,uD$!(`
+HuD$!(`
+uD$!(`
+|vD$!(`
+yD$!(`
+yD$!(`
+uD$!(`
+|D$!(`
+~D$!(`
+~D$!(`
+~D$!(`
+8JD$!(
+NB$!(b
+<USB40
+8PD$!(`
+<#IB4D
+<#ID4(
+<!IB4D
+<!ID4(
+'D2B$(
+(kD$!(`
+(kD$!(`
+,sD$!(`
+,sD$!(`
+,sD$!(`
+`-F$!8`
+<YuC4;
+<YtC4;
+#B$! @
+=D4!(`
+<p<D4!(`
+<<=C4@
+<U-Boot 1.1.6 (Oct  1 2010 - 21:24:22)
+*** failed ***
+DRAM:  
+Flash: 
+baudrate
+----> u8RCmode = 0x%x
+NAND:  
+ethaddr
+ipaddr
+loadaddr
+bootfile
+Net:   
+### ERROR ### Please RESET the board ###
+## Warning: gatewayip needed but not set
+ARP Retry count exceeded; starting again
+gatewayip
+netmask
+serverip
+Bytes transferred = %ld (%lx hex)
+filesize
+fileaddr
+netretry
+Using %s device
+bad length %d < %d
+invalid RARP header
+len bad %d < %d
+checksum bad
+ ICMP Host Redirect to 
+*** ERROR: ping address not given
+*** ERROR: `serverip' not set
+*** ERROR: `ipaddr' not set
+*** ERROR: No ethernet found.
+*** ERROR: `ethaddr' not set
+*** ERROR: `eth%daddr' not set
+%d.%d.%d.%d
+timeout
+File too large
+File has bad magic
+ %lu MB received
+TFTP error: First block is not block 1 (%ld)
+Starting again
+TFTP error: '%s' (%d)
+Starting again
+Retry count exceeded; starting again
+%02lX%02lX%02lX%02lX.img
+*** Warning: no boot file name; using '%s'
+Using %s device
+TFTP from server 
+; our IP address is 
+; sending through gateway 
+Filename '%s'.
+ Size is 0x%x Bytes = 
+Load address: 0x%lx
+Loading: *
+bootfile
+*** WARNING: %s is too long (%d - max: %d) - truncated
+Host Name
+Root Path
+NIS Domain Name
+autoload
+Retry count exceeded; starting again
+BOOTP broadcast %d
+autoload
+Retry count exceeded; starting again
+RARP broadcast %d
+ethact
+No ethernet found.
+ethprime
+ [PRIME]
+eth%daddr
+ethaddr
+Warning: %s MAC addresses don't match:
+Address in SROM is         %02X:%02X:%02X:%02X:%02X:%02X
+Address in environment is  %02X:%02X:%02X:%02X:%02X:%02X
+unknown
+uWatchDog is %x 
+u16Count == 0 [RegWrite] timeout
+drvMICOM_RegWrite FAIL
+u16Count == 0 [RegRead] timeout
+gPmCMD.Preamble = %d
+recv_read_cmd.Preamble = %d
+recv_read_cmd.Opcode = %x
+drvMICOM_RegRead FAIL
+Write u16Data=%04x
+Write u16Temp=%04x
+u16Count == 0 [PM_Sleep] timeout
+drvMICOM_PM_Sleep FAIL
+u16Temp is:%x
+u16Count == 0 [CtrlWrite] timeout
+MDrv_MICOM_PM_CtrlWrite FAIL
+u16Count == 0 [CtrlRead] timeout
+MDrv_MICOM_PM_CtrlRead FAIL
+SAR initialize failure!
+SAR initialize done!
+SAR initialize 1 failure!
+SAR initialize 1 done!
+@SUCESS
+MDrv_PM_KeypadInit FAIL
+MDrv_PM_KeypadInit OK
+%lu MiB
+nand_select_chip
+BUG: failure at %s:%d/%s()!
+nand_base.c
+Timeout!
+Writing data without ECC to NAND-FLASH is not recommended
+Reading data from NAND FLASH without ECC is not recommended
+nand_write_ecc: Attempt to write not page aligned data
+nand_erase: attempt to erase a bad block at page 0x%08x
+NAND device: Manufacturer ID: 0x%02x, Chip ID: 0x%02x (%s %s)
+NAND bus width %d instead %d bit
+No NAND device found!!!
+%d NAND chips detected
+nand_scan(): Cannot allocate oob_buf
+nand_scan(): Cannot allocate data_buf
+No oob scheme defined for oobsize %d
+2048 byte HW ECC not possible on %d byte page size, fallback to SW ECC
+512 byte HW ECC not possible on 256 Byte pagesize, fallback to SW ECC 
+NAND_ECC_NONE selected by board driver. This is not recommended !!
+Invalid NAND_ECC_MODE %d
+No ECC functions supplied, Hardware ECC not possible
+NAND 1MiB 5V 8-bit
+NAND 2MiB 5V 8-bit
+NAND 4MiB 5V 8-bit
+NAND 1MiB 3,3V 8-bit
+NAND 2MiB 3,3V 8-bit
+NAND 4MiB 3,3V 8-bit
+NAND 8MiB 3,3V 8-bit
+NAND 8MiB 1,8V 8-bit
+NAND 8MiB 1,8V 16-bit
+NAND 8MiB 3,3V 16-bit
+NAND 16MiB 1,8V 8-bit
+NAND 16MiB 3,3V 8-bit
+NAND 16MiB 1,8V 16-bit
+NAND 16MiB 3,3V 16-bit
+NAND 32MiB 1,8V 8-bit
+NAND 32MiB 3,3V 8-bit
+NAND 32MiB 1,8V 16-bit
+NAND 32MiB 3,3V 16-bit
+NAND 64MiB 1,8V 8-bit
+NAND 64MiB 3,3V 8-bit
+NAND 64MiB 1,8V 16-bit
+NAND 64MiB 3,3V 16-bit
+NAND 128MiB 1,8V 8-bit
+NAND 128MiB 3,3V 8-bit
+NAND 128MiB 1,8V 16-bit
+NAND 128MiB 3,3V 16-bit
+NAND 256MiB 3,3V 8-bit
+NAND 512MiB 3,3V 8-bit
+NAND 64MiB 3.3V 8-bit
+NAND 256MiB 1,8V 8-bit
+NAND 256MiB 1,8V 16-bit
+NAND 256MiB 3,3V 16-bit
+NAND 512MiB 1,8V 8-bit
+NAND 512MiB 1,8V 16-bit
+NAND 512MiB 3,3V 16-bit
+NAND 1GiB 1,8V 8-bit
+NAND 1GiB 3,3V 8-bit
+NAND 1GiB 1,8V 16-bit
+NAND 1GiB 3,3V 16-bit
+NAND 2GiB 1,8V 8-bit
+NAND 2GiB 3,3V 8-bit
+NAND 2GiB 1,8V 16-bit
+NAND 2GiB 3,3V 16-bit
+AND 128MiB 3,3V 8-bit
+Toshiba
+Samsung
+Fujitsu
+National
+Renesas
+ST Micro
+Unknown
+e03f<ij??ji<f30ef30e?ji<<ij?e03f
+i<?j0ef33fe0j?<i
+j?<i3fe00ef3i<?jj?<i3fe00ef3i<?j
+i<?j0ef33fe0j?<i
+f30e?ji<<ij?e03fe03f<ij??ji<f30e
+nand_bbt: Error reading bad block table
+nand_bbt: ECC error while reading bad block table
+nand_read_bbt: Reserved block at 0x%08x
+nand_read_bbt: Bad block at 0x%08x
+Bad block table at page %d, version 0x%02X
+create_bbt(): chipnr (%d) > available chips (%d)
+nand_bbt: searching bbt...
+Bad block table not found for chip %d
+Bad block table found at page %d, version 0x%02X
+No space left to write bad block table
+nand_bbt: Error reading block for writing the bad block table
+nand_bbt: ECC error while reading block for writing bad block table
+nand_bbt: Error during block erase: %d
+nand_bbt: Error while writing bad block table %d
+Bad block table written to 0x%08x, version 0x%02X
+nand_scan_bbt: Out of memory
+nand_bbt: Out of memory
+nand_update_bbt: Out of memory
+memory allocation error while creating partitions for "%s"
+Moving partition %d: 0x%08x -> 0x%08x
+0x%08x-0x%08x : "%s"
+mtd: partition "%s" is out of reach -- disabled
+mtd: partition "%s" extends beyond the end of device "%s" -- size truncated to %#x
+mtd: partition "%s" doesn't start on an erase block boundary -- force read-only
+mtd: partition "%s" doesn't end on an erase block -- force read-only
+U-Boot BUG at %s:%d!
+mtdcore.c
+Removing MTD device #%d (%s) with use count %d
+console=ttyS0,115200 ubi.mtd=1 ubi.mtd=2,512 root=ubi1:RFS rootfstype=ubifs rw LX_MEM=0x1B00000 EMAC_MEM=0x200000 DRAM_LEN=0x10000000 LX_MEM2=0xA800000,0x1800000
+nand read.e 81000000 KL; bootm 81000000;
+MBOOT_VER=119
+mtdparts=edb64M-nand:3200k(KL),11392k(CONF),22560k(UBIA),25616k(UBIB),-(NA)
+OAD update code 
+ERROR: SPI DMA fail !!!
+Set OAD Flag 
+Clear OAD Flag 
+start factory usb download 
+no need start factory usb download 
+Set DL Flag 
+Clear DL Flag 
+bootargs
+bootargs_default not defined, no default present
+MBOOT_VER=
+mboot version no found
+mboot version found
+mboot version no match
+OLD : %s
+NEW : %s
+mboot version match:%s
+bootcmd
+preboot
+Read DDR Parameters From SPI Flash
+Read DDR Parameters From Firmware
+bootdelay
+IR_KEY = %x
+ #* NAND is already programmed (not Empty) ***
+ #* NAND is NOT programmed yet (Empty) ***
+fatls usb 0
+this is the number file fileNum : %ds 
+#* NAND programming completed
+Do OAD update 
+no OAD Flag 
+<< MStar >># 
+<INTERRUPT>
+Hit any key to stop autoboot: %2d 
+** Too many args (max. %d) **
+## Command too long!
+Unknown command '%s' - try 'help'
+Usage:
+## Error: "%s" not defined
+Error: the max size of one line is %d!!!
+no memory for command string!!
+setenv %s %s
+ipaddr
+192.168.0.28
+serverip
+192.168.0.26
+estart
+auto_update.txt
+tftp %X %s
+>> %s 
+usb_auto_update.txt
+fatload usb 0 %X /%s
+m_wreg 0x1055 0x04
+OAD >> %s 
+ubi part UBIB
+ubifsmount BUF
+m_wreg 0x1055 0x05
+ubifsload %X /%s %X
+aurora.upg
+aes_test %X %X %X
+nand erase clean KL
+nand write.e %X KL %X
+nand erase clean UBIA
+ubi part UBIA
+ubi create RFS %X
+ubi create VEN %X
+ubi write %X RFS %X
+ubi write %X VEN %X
+token1: "%s"
+token2 : "%s"
+u16HStart
+u16HStart: %d
+u16VStart
+u16VStart: %d
+u16Width
+u16Width: %d
+u16Height
+u16Height: %d
+u16HTotal
+u16HTotal: %d
+u16VTotal
+u16VTotal: %d
+u16DE_VStart
+u16DE_VStart: %d
+u32DClkFactor
+u32DClkFactor: %d
+u16DefaultVFreq
+u16DefaultVFreq: %d
+u16LPLL_InputDiv
+u16LPLL_InputDiv: %d
+u16LPLL_LoopDiv
+u16LPLL_LoopDiv: %d
+u16LPLL_OutputDiv
+u16LPLL_OutputDiv: %d
+u8LPLL_Type
+u8LPLL_Type: %d
+u8LPLL_Mode
+u8LPLL_Mode: %d
+u8HSyncWidth
+u8HSyncWidth: %d
+bPnlDblVSync
+bPnlDblVSync: %d
+u16OCTRL
+u16OCTRL: %d
+u16OSTRL
+u16OSTRL: %d
+u16ODRV
+u16ODRV: %d
+u16DITHCTRL
+u16DITHCTRL: %d
+u16MOD_CTRL0
+u16MOD_CTRL0: %d
+u16MOD_CTRL9
+u16MOD_CTRL9: %d
+u16MOD_CTRLA
+u16MOD_CTRLA: %d
+u8MOD_CTRLB
+u8MOD_CTRLB: %d
+u8LVDSTxChannel
+u8LVDSTxChannel: %d
+u8LVDSTxBitNum
+u8LVDSTxBitNum: %d
+u8LVDSTxTiMode
+u8LVDSTxTiMode: %d
+u8LVDSTxSwapMsbLsb
+u8LVDSTxSwapMsbLsb: %d
+u8LVDSTxSwap_P_N
+u8LVDSTxSwap_P_N: %d
+u8LVDSTxSwapOddEven
+u8LVDSTxSwapOddEven: %d
+u8PanelVfreq
+u8PanelVfreq: %d
+u8PanelChannel
+u8PanelChannel: %d
+u8PanelLVDSSwapCH
+u8PanelLVDSSwapCH: %d
+u8PanelBitNum
+u8PanelBitNum: %d
+u8PanelLVDSShiftPair
+u8PanelLVDSShiftPair: %d
+u8PanelLVDSTiMode
+u8PanelLVDSTiMode: %d
+u8PanelLVDSSwapPol
+u8PanelLVDSSwapPol: %d
+u8PanelLVDSSwapPair
+u8PanelLVDSSwapPair: %d
+u8VSyncWidth
+u8VSyncWidth: %d
+u16LVDSTxSwapValue
+u16LVDSTxSwapValue: %d
+dclk_mode
+dclk_mode: %d
+u16MinHTotal
+u16MinHTotal: %d
+u16DefaultHTotal
+u16DefaultHTotal: %d
+u16MaxHTotal
+u16MaxHTotal: %d
+u16MinVTotal
+u16MinVTotal: %d
+u16DefaultVTotal
+u16DefaultVTotal: %d
+u16MaxVTotal
+u16MaxVTotal: %d
+u32MinDCLK
+u32MinDCLK: %d
+u32MaxDCLK
+u32MaxDCLK: %d
+nand read.e %X %s %X
+nand erase %s %X
+nand write.e %X %s %X
+display_controller_seperated
+stSysInfo.displayControllerSeperated: %d
+local_ir
+local_ir: %d
+gop_index
+gop_index: %d
+MS_BIN_START
+MS_BIN_SIZE
+[%s:%d]no memory!!
+main.c
+CK_RES
+boot_params
+memstart
+memsize
+flashstart
+flashsize
+flashoffset
+ethaddr     =
+%c%02X
+ip_addr     = 
+baudrate    = %d bps
+%-12s= 0x%08lX
+bdinfo
+bdinfo  - print Board Info structure
+test %d MB from 0x%08X
+#1 error idx=%d, vp[i]=0x%02X, r=0x%02X
+#2 error idx=%d, vp[i]=0x%02X, r=0x%02X
+#3 error idx=%d, vp[i]=0x%02X, r=0x%02X
+#4 error idx=%d, vp[i]=0x%02X, r=0x%02X
+i_adding = %d
+MIU0 write and read testing = %s
+MIU0 write and read testing cache first = %s
+not defined test case
+Usage:
+Auto Search Kernel_Entry: 0x%08X
+## Starting application at 0x%08lX ...
+## Application terminated, rc = 0x%lX
+go      - start application at address 'addr'
+addr [arg ...]
+    - start application at address 'addr'
+      passing 'arg' as arguments
+reset   - Perform RESET of the CPU
+verify
+## Booting image at %08lx ...
+Bad Magic Number
+Bad Header Checksum
+   Verifying Checksum ... 
+Bad Data CRC
+Unsupported Architecture 0x%x
+Standalone Application
+Kernel Image
+Multi-File Image
+Wrong Image Type for %s command
+   XIP %s ... 
+   Uncompressing %s ... 
+GUNZIP ERROR - must RESET board to recover
+BUNZIP2 ERROR %d - must RESET board to recover
+LZO ERROR %d - must RESET board to recover
+Unimplemented compression type %d
+autostart
+filesize
+Can't boot image type %d
+MS_BIN_START
+cpmsbin
+bootm   - boot application image from memory
+[addr [arg ...]]
+    - boot application image stored in memory
+passing arguments 'arg ...'; when booting a Linux kernel,
+'arg' can be the address of an initrd image
+bootargs
+## Transferring control to NetBSD stage-2 loader (at address %08lx) ...
+   Image Name:   %.*s
+   Created:      %4d-%02d-%02d  %2d:%02d:%02d UTC
+   Image Type:   
+   Data Size:    %d Bytes = 
+   Load Address: %08x
+   Entry Point:  %08x
+   Contents:
+   Image %d: %8ld Bytes = 
+Invalid OS
+NetBSD
+VxWorks
+U-Boot
+Unknown OS
+Invalid CPU
+Intel x86
+MIPS 64 Bit
+PowerPC
+IBM S390
+SuperH
+SPARC 64 Bit
+Microblaze
+Nios-II
+Unknown Architecture
+Invalid Image
+Standalone Program
+RAMDisk Image
+Firmware
+Script
+Flat Device Tree
+Unknown Image
+uncompressed
+gzip compressed
+bzip2 compressed
+lzo compressed
+unknown compression
+%s %s %s (%s)
+BZIP2 internal error %d
+## Transferring control to RTEMS (at address %08lx) ...
+Data (writethrough) Cache is %s
+Usage:
+dcache
+dcache  - enable or disable data cache
+[on, off]
+    - enable or disable data (writethrough) cache
+List of available devices:
+%-8s %08x %c%c%c 
+coninfo
+coninfo - print console devices and information
+usage: fatwrite <interface> <dev[:part]> <addr> <filename> [bytes]
+** Invalid boot device **
+** Invalid boot device, use `dev[:part]' **
+** Unable to use %s %d:%d for fatwrite **
+** Unable to write "%s" from %s %d:%d **
+fatwrite
+fatwrite - write binary file to a dos filesystem
+<interface> <dev[:part]>  <addr> <filename> [bytes]
+    - load binary file 'filename' from 'dev' on 'interface'
+      to address 'addr' from dos filesystem
+usage: fatload <interface> <dev[:part]> <addr> <filename> [bytes]
+** Unable to use %s %d:%d for fatload **
+** Unable to read "%s" from %s %d:%d **
+%ld bytes read
+filesize
+fatload
+fatload - load binary file from a dos filesystem
+<interface> <dev[:part]>  <addr> <filename> <bytes>
+    - write data address 'addr' to 'dev' on 'interface'
+      to binary file 'filename' from dos filesystem
+usage: fatls <interface> <dev[:part]> [directory]
+do fat ls:argc:%d, vendor:%s
+** Unable to use %s %d:%d for fatls **
+No Fat FS detected
+fatls   - list files in a directory (default /)
+<interface> <dev[:part]> [directory]
+    - list files from 'dev' on 'interface' in a 'directory'
+usage: fatinfo <interface> <dev[:part]>
+** Unable to use %s %d:%d for fatinfo **
+fatinfo
+fatinfo - print information about filesystem
+<interface> <dev[:part]>
+    - print information about filesystem from 'dev' on 'interface'
+nand0=edb64M-nand
+mtdparts=edb64M-nand:3200k(KL),11392k(CONF),22560k(UBIA),25616k(UBIB),-(NA)
+%s%d,%d
+partition
+%s%d: partition (%s) start offset alignment incorrect
+%s%d: partition (%s) size alignment incorrect
+%s: offset %08lx beyond flash size %08lx
+%s%d: partition (%s) size too big
+%s: partitioning exceeds flash size
+current partition deleted, resetting current to 0
+cannot add second partition at offset 0
+partition size too small (%lx)
+no closing ) found in partition name
+empty partition name
+no partitions allowed after a fill-up partition
+unexpected character '%c' at the end of partition
+out of memory
+0x%08lx@0x%08lx
+support for FLASH devices not present
+no such NAND device: %s%d (valid range 0 ... %d)
+no <mtd-id> identifier
+invalid mtd device '%.*s'
+no partitions for device %s%d (%s)
+unexpected character '%c' at the end of device
+incorrect device type in %s
+incorrect device number in %s
+mtdparts=
+mtdparts
+device %s%d <%s>, # parts = %d
+ #: name
+offset
+mask_flags
+%2d: %-20s0x%08x
+0x%08x
+no partitions defined
+active partition: %s%d,%d - (%s) 0x%08lx @ 0x%08lx
+could not get current partition info
+defaults:
+mtdids  : %s
+mtdparts: %s
+no partition number specified
+unexpected trailing character '%c'
+no such device %s%d
+no such partition
+generated mtdparts too long, reseting to null
+partition %s not found
+could not initialise device list
+mtdparts variable doesn't start with 'mtdparts='
+device %s%d redefined, please correct mtdparts variable
+mtdids: incorrect <dev-num>
+mtdids: no <mtd-id> identifier
+device id %s%d redefined, please correct mtdids variable
+mtdids
+mtdids not defined, no default present
+mtdids too long (> %d)
+mtdparts not defined, no default present
+mtdparts too long (> %d)
+mtdparts_init: no valid partitions
+invalid partition number %d for device %s%d (%s)
+bootfile
+uImage
+### %s loading '%s' to 0x%lx
+### %s load complete: %d bytes loaded to 0x%lx
+filesize
+### %s LOAD ERROR<%x> for %s!
+### filesystem type is %s
+no partition id specified
+partition changed to %s%d,%d
+default
+delall
+no such device %s defined in mtdids variable
+too long partition description
+%s:%s(%s)%s
+Usage:
+%d%s(%s),
+dynparts
+Error: set'dynparts' first!!!
+Error: malloc for temp buffer fail!!!
+Error: parse 'dynparts' fail!!!
+fsload
+fsload
+- load binary file from a filesystem image
+[ off ] [ filename ]
+    - load binary file from flash bank
+      with offset 'off'
+- list files in a directory (default /)
+[ directory ]
+    - list files in a directory.
+fsinfo
+fsinfo
+- print information about filesystems
+    - print information about filesystems
+chpart
+chpart
+- change active partition
+part-id
+    - change active partition (e.g. part-id = nand0,1)
+mtdparts- define flash/nand partitions
+    - list partition table
+mtdparts delall
+    - delete all partitions
+mtdparts del part-id
+    - delete partition (e.g. part-id = nand0,1)
+mtdparts add <mtd-dev> <size>[@<offset>] [<name>] [ro]
+    - add partition
+mtdparts default
+    - reset partition table to defaults
+this command uses three environment variables:
+'partition' - keeps current partition identifier
+partition  := <part-id>
+<part-id>  := <dev-id>,part_num
+'mtdids' - linux kernel mtd device id <-> u-boot device id mapping
+mtdids=<idmap>[,<idmap>,...]
+<idmap>    := <dev-id>=<mtd-id>
+<dev-id>   := 'nand'|'nor'<dev-num>
+<dev-num>  := mtd device number, 0...
+<mtd-id>   := unique device tag used by linux kernel to find mtd device (mtd->name)
+'mtdparts' - partition list
+mtdparts=mtdparts=<mtd-def>[;<mtd-def>...]
+<mtd-def>  := <mtd-id>:<part-def>[,<part-def>...]
+<mtd-id>   := unique device tag used by linux kernel to find mtd device (mtd->name)
+<part-def> := <size>[@<offset>][<name>][<ro-flag>]
+<size>     := standard linux memsize OR '-' to denote all remaining space
+<offset>   := partition start offset within the device
+<name>     := '(' NAME ')'
+<ro-flag>  := when set to 'ro' makes partition read-only (not used, passed to kernel)
+dynpart
+dynpart [<mtd-def>]
+- dynamically calculate partition table based on <mtd-def>/'dynparts' and BBT (it is better to set the last partition size to SIZE_REMAINING)
+[<mtd-def>]
+    - sets 'mtdparts' according to <mtd-def>/'dynparts' and BBT (it is better to set the last partition size to SIZE_REMAINING)
+Usage:
+%08lx:
+word at 0x%08lx (0x%08lx) != word at 0x%08lx (0x%08lx)
+halfword at 0x%08lx (0x%04x) != halfword at 0x%08lx (0x%04x)
+byte at 0x%08lx (0x%02x) != byte at 0x%08lx (0x%02x)
+halfword
+Total of %ld %s%s were the same
+Zero length ???
+Copy to Flash... 
+Base Address: 0x%08lx
+Pattern %08lX  Writing...%12s
+Reading...
+Mem error @ 0x%08X: found %08lX, expected %08lX
+CRC32 for %08lx ... %08lx ==> %08lx
+md      - memory display
+[.b, .w, .l] address [# of objects]
+    - memory display
+mm      - memory modify (auto-incrementing)
+[.b, .w, .l] address
+    - memory modify, auto increment address
+nm      - memory modify (constant address)
+[.b, .w, .l] address
+    - memory modify, read and keep address
+mw      - memory write (fill)
+[.b, .w, .l] address value [count]
+    - write memory
+cp      - memory copy
+[.b, .w, .l] source target count
+    - copy memory
+cmp     - memory compare
+[.b, .w, .l] addr1 addr2 count
+    - compare memory
+crc32   - checksum calculation
+address count [addr]
+    - compute CRC32 checksum [save at addr]
+base    - print or set address offset
+    - print address offset for memory commands
+base off
+    - set address offset for memory commands to 'off'
+loop    - infinite loop on address range
+[.b, .w, .l] address number_of_objects
+    - loop on a set of addresses
+mtest   - simple RAM test
+[start [end [pattern]]]
+    - simple RAM read/write test
+No memory for page buffer
+Error (%d) reading page %08x
+Page %08x dump:
+%02x %02x %02x %02x %02x %02x %02x %02x  %02x %02x %02x %02x %02x %02x %02x %02x
+%02x %02x %02x %02x %02x %02x %02x %02x
+not a NAND device
+'%s' is not a number
+device %d 
+whole chip
+offset 0x%x, size 0x%x
+Device %d: %s, sector size %lu KiB
+device
+No such device
+Device %d: %s
+... is now current device
+markbad
+biterr
+unlock
+Device %d bad blocks:
+  %08x
+NAND %s: 
+Warning: scrub option will erase all factory set bad blocks!
+         There is no reliable way to recover them.
+         Use this command only for testing purposes if you
+         are sure of what you are doing!
+Really scrub this NAND flash? <y/N>
+eraseloop is %x
+%4x %s
+.jffs2
+written
+ %d bytes %s: %s, time=%08X
+block 0x%08lx successfully marked as bad
+block 0x%08lx NOT marked as bad! ERROR %d
+status
+device is %swrite protected
+TIGHT 
+UNLOCK 
+%08x - %08x: %8d pages %s%s%s
+NAND flash successfully locked
+Error locking NAND flash
+NAND flash successfully unlocked
+Error unlocking NAND flash, write and erase will probably fail
+Usage:
+Loading from %s, offset 0x%lx
+** Read error
+** Bad Magic Number 0x%x **
+autostart
+Automatic boot of image at addr 0x%08lx ...
+Not a NAND device
+bootdevice
+** No boot device **
+** Device %d not available
+Please select mode from 0~5!
+NAND Clock mode :%4x and Clock:%4d MHz
+UART disable!
+Input error!Command format is: rsv bad [partition_id] [rsv_num] / rsv good
+Can not mark %d bad, error %d
+nand    - NAND sub-system
+info                  - show available NAND devices
+nand device [dev]     - show or set current device
+nand read[.jffs2]     - addr off|partition size
+nand write[.jffs2]    - addr off|partiton size - read/write `size' bytes starting
+    at offset `off' to/from memory address `addr'
+nand erase [clean] [off size] - erase `size' bytes from
+nand eloop [loop]- erase all for loop 
+    offset `off' (entire device if not specified)
+nand bad - show bad blocks
+nand dump[.oob] off - dump page
+nand scrub - really clean NAND erasing bad blocks (UNSAFE)
+nand markbad off - mark bad block at offset (UNSAFE)
+nand biterr off - make a bit error at offset (UNSAFE)
+nand lock [tight] [status] - bring nand to lock state or display locked pages
+nand unlock [offset] [size] - unlock section
+nboot   - boot from NAND device
+[partition] | [[[loadAddr] dev] offset]
+nandclk
+nandclk - tune nand clock
+nandclk mode      
+mode=0 NC_CLK_54M 
+mode=1 NC_CLK_43M 
+mode=2 NC_CLK_36M 
+mode=3 NC_CLK_27M 
+mode=4 NC_CLK_18M 
+mode=5 NC_CLK_13M 
+du  - Disable UART
+command: du
+rsv - Set reserved block as bad or good
+rsv bad [partition_id] [rsv_num] or rsv good, rsv_num refers to reserved block number
+- boot image via network using BootP/TFTP protocol
+[loadAddress] [bootfilename]
+tftpboot
+tftpboot- boot image via network using TFTP protocol
+rarpboot
+rarpboot- boot image via network using RARP/TFTP protocol
+gatewayip
+netmask
+hostname
+rootpath
+ipaddr
+serverip
+domain
+loadaddr
+Usage:
+autostart
+Automatic boot of image at addr 0x%08lX ...
+Vestel AES decryption!!
+u32srcPA=0x%08lx, u32dstPA=0x%08lx, u32length=0x%08lx
+Exam result...
+#VESTEL#
+m_wreg 0x1055 0x05
+Your file is invalid
+aes_test
+aes_test
+[AES DMA HW]
+ping failed; host %s is not alive
+host %s is alive
+- send ICMP ECHO_REQUEST to network host
+pingAddress
+ ** Abort
+Environment size: %d/%d bytes
+## Error: "%s" not defined
+## Error: illegal character '=' in variable name "%s"
+serial#
+ethaddr
+Can't overwrite "%s"
+stdout
+stderr
+Can't delete "%s"
+baudrate
+## Baudrate %d bps not supported
+## Switch baudrate to %d bps and press ENTER ...
+## Error: environment overflow, "%s" deleted
+ipaddr
+loadaddr
+bootfile
+setenv
+Usage:
+Saving Environment to %s...
+printenv
+printenv- print environment variables
+    - print values of all environment variables
+printenv name ...
+    - print value of environment variable 'name'
+setenv  - set environment variables
+name value ...
+    - set environment variable 'name' to 'value ...'
+setenv name
+    - delete environment variable 'name'
+saveenv
+saveenv - save environment variables to persistent storage
+run     - run commands in an environment variable
+var [...]
+    - run the commands in the environment variable(s) 'var'
+mstar   - update kernal & root file system automatically by script file
+[script_file_name [target_ipaddr [tftp_serverip [bootdelay]]]]
+    - script_file_name: auto update script file name
+    - target_ipaddr: the ip address of target board
+    - tftp_serverip: tftp server ip address
+    - bootdelay: boot delay setting
+ustar   - update kernal & root file system automatically by script file
+[script_file_name] 
+    - when use this command 
+    - at first use usb start 
+    - then use ustar 
+    -  
+pnlinfo
+pnlinfo   - set panel info and save to nand flahs
+sysinfo
+sysinfo   - set system info and save to nand flahs
+cpmsbin
+cpmsbin   - Copy ms bin file (Chakra) from nand to dram
+initialization done!
+Get Chip Rev:
+0x%02x
+ Block Num:
+0x%04x
+ Block Size:
+0x%08x
+ Total Size:
+0x%08x
+ Access Width:
+0x%02x
+ u8StatusReg:
+0x%02X
+Usage:
+SPI flash start addr:
+SPI DMA start addr:
+SPI DMA length:
+SPI DMA Done!
+Manufacturer ID:
+0x%02X
+Device ID:
+0x%02X 0x%02X
+SPI read addr:0x%08x and len:0x%08x
+SPI read: length is out of range
+[0x%08x~0x%08x]: 
+Read SPI flash done!
+Read buffer done!
+SPI write protect fail
+SPI write protect pass
+SPI write: length is out of range
+Write buffer done!
+write SPI flash done!
+Start Addr > End Addr
+Hex conversion error on %c, giving up.
+Invalid device %d, giving up.
+Invalid bitlen %d, giving up.
+WARNING: it is better to set flash start addr aligned to %d !!!
+WARNING: it is better to set dram start addr aligned to %d !!!
+WARNING: it is better to set total length aligned to %d !!!
+ERROR: SPI DMA fail !!!
+Erasing...
+Writing...
+Verifying...
+OK !!!
+FAIL !!!
+sspi    - SPI utility commands
+<device> <bit_len> <dout> - Send <bit_len> bits from <dout> out the SPI
+<device>  - Identifies the chip select of the device
+<bit_len> - Number of bits to send (base 10)
+<dout>    - Hexadecimal string that gets sent
+spi_in
+spi_in  - SPI initialization
+command: spi_in
+spi_id
+spi_id  - SPI read ID
+command: spi_id
+spi_r   - SPI read commands
+command: spi_r addr(hex) len(hex)
+spi_w   - SPI write commands
+command: spi_w addr(hex) len(hex) 
+spi_ea
+spi_ea  - SPI erase all
+command: spi_ea
+spi_eb
+spi_eb  - SPI erase block
+command: spi_es start addr(hex) end addr(hex)
+spi_wp
+spi_wp  - SPI write protect 
+command: spi_wp (enable(1)or disable(0))
+spi_gr
+spi_gr  - SPI get Chip Rev
+command: spi_gr 
+spi_gfo
+spi_gfo - SPI get flash info
+command:spi_gfo
+spi_rs
+spi_rs  - SPI read status
+command:spi_rs
+spi_dma
+spi_dma - SPI copy data from flash to DRAM by PIU DMA
+command: spi_dma flash start addr(hex) DRAM start addr(hex) len(hex)
+spi_wb
+spi_wb  - SPI write buffer
+command: spi_ewb edit addr(hex) value(hex) len(hex)
+spi_rb
+spi_rb  - SPI read buffer
+command: spi_rb addr(hex) len(hex)
+spi_rdc
+spi_rdc - SPI read code from SPI flash to DRAM
+from_flash_addr(hex) to_dram_addr(hex) len(hex)
+    - from_flash_addr: flash start address (hex, flash erase size aligned)
+    - to_dram_addr: dram start address (hex, flash erase size aligned)
+    - len: total lenght to move data (hex, flash erase size aligned)
+spi_wrc
+spi_wrc - SPI write code from DRAM to SPI flash
+from_dram_addr(hex) to_flash_addr(hex) len(hex)
+    - from_dram_addr: dram start address (hex, flash erase size aligned)
+    - to_flash_addr: flash start address (hex, flash erase size aligned)
+    - len: total lenght to move data (hex, flash erase size aligned)
+See Interface
+Communication
+Human Interface
+Printer
+Mass Storage
+CDC Data
+Vendor specific
+Human Interface, Subclass: 
+Keyboard
+reserved
+Mass Storage, 
+SFF-8020i (ATAPI)
+QIC-157 (Tape)
+SFF-8070
+Transp. SCSI
+Command/Bulk
+Command/Bulk/Int
+Bulk only
+String: "%s"
+%d: %s,  USB Revision %x.%x
+ - %s %s %s
+ - Class: 
+ - Class: (from Interface) %s
+ - PacketSize: %d  Configurations: %d
+ - Vendor: 0x%04x  Product 0x%04x Version %d.%d
+   Configuration: %d
+Self Powered 
+Bus Powered 
+Remote Wakeup 
+   - Interfaces: %d %s%s%dmA
+     Interface: %d
+     - Alternate Setting %d, Endpoints: %d
+     - Class 
+     - 
+     - Endpoint %d %s 
+Control
+Isochronous
+Interrupt
+ MaxPacket %d
+ Interval %dms
+1.5MBit/s
+12MBit/s
+ %s (%s, %dmA)
+ %s  %s %s %s
+bootdevice
+Usage:
+** No boot device **
+** Device %d not available
+storage device not initialized. Use usb scan
+** Invalid boot device, use `dev[:part]' **
+U-Boot
+error reading partinfo...try to boot raw
+PPCBoot
+** Invalid partition type "%.32s" (expect "U-Boot")
+Loading from USB device %d, partition %d: Name: %.32s  Type: %.32s
+** Read error on %d:%d
+** Bad Magic Number **
+** Bad Header Checksum **
+** Read error on %d:%d
+autostart
+Automatic boot of image at addr 0x%08lX ...
+(Re)start USB...
+(Re)start USB 0...
+(Re)start USB 1...
+Usb start command error..
+stopping USB..
+USB is stopped. Please issue 'usb start' first.
+Device Tree:
+config for device %d
+*** NO Device avaiable ***
+  NOTE: this command is obsolete and will be phased out
+  please use 'usb storage' for USB storage devices information
+print_part of %x
+no USB devices available
+no current device selected
+USB read: device %d block # %ld, count %ld ... 
+%ld blocks read: %s
+USB device %d: 
+unknown device
+    Device %d: 
+... is now current device
+usb     - USB sub-system
+reset - reset (rescan) USB controller
+usb stop [f]  - stop USB [f]=force stop
+usb tree  - show USB device tree
+usb info [dev] - show available USB devices
+usb storage  - show details of USB storage devices
+usb dev [dev] - show or set current USB storage device
+usb part [dev] - print partition table of one or all USB storage devices
+usb read addr blk# cnt - read `cnt' blocks starting at block `blk#'
+    to memory address `addr'
+usbboot
+usbboot - boot from USB device
+loadAddr dev:part
+start get
+no more data!
+version
+version - print monitor version
+- No help available.
+Unknown command '%s' - try 'help' without arguments for list of all known commands
+help    - print online help
+[command ...]
+    - show help information (for 'command')
+'help' prints online help for the monitor commands.
+Without arguments, it prints a short usage message for all commands.
+To get detailed help information for specific commands you can type
+'help' with one or more command names as arguments.
+?       - alias for 'help'
+In:    
+No input devices available!
+Out:   
+No output devices available!
+Err:   
+No error devices available!
+stdout
+stderr
+serial
+Cannot initialize the list of devices!
+*** Warning - bad CRC, using default environment
+Erasing and writing environment to Nand...
+Writing to Nand... 
+All the blocks reserved for environment are bad, no data is written!!!
+Encounter crc error.
+All the blocks reserved for environment are bad, no data is read!!!.
+*** Warning - bad CRC or NAND, using default environment
+*** Error - default environment is too large
+Timeout writing to Flash
+Flash not Erased
+Can't write to protected Flash sectors
+Outside available Flash
+Start and/or end address not on sector boundary
+Unknown Vendor of Flash
+Unknown Type of Flash
+General Flash Programming Error
+%s[%d] FIXME: rc=%d
+flash.c
+USB:   
+scanning bus for devices... 
+Error, couldn't init Lowlevel part
+ ERROR: NOT USB_CONFIG_DESC %x
+unable to get descriptor, error %lX
+config descriptor too short (expected %i, got %i)
+selecting invalid interface %d
+ERROR, too many USB Devices, max=%d
+usb_new_device: cannot locate device's port..
+     Couldn't reset port %i
+      USB device not accepting new address (error=%lX)
+unable to get device descriptor (error=%d)
+USB device descriptor short read (expected %i, got %i)
+failed to set default configuration len %d, status %lX
+%d USB Device(s) found
+ERROR: USB_MAX_HUB (%d) reached
+cannot reset port %i!?
+  Device %d: 
+No storage devices, perhaps not 'usb start'ed..?
+       scanning bus for storage devices... 
+max USB Storage Device reached: %d stopping
+%d Storage Device(s) found
+Did not get interrupt on CBI
+cmd 0x%02X returned 0x%02X 0x%02X 0x%02X 0x%02X (NOT READY)
+cmd 0x%02X returned 0x%02X 0x%02X 0x%02X 0x%02X
+error in inquiry
+Device NOT ready
+   Request Sense returned %02X %02X %02X
+USB Storage Transport unknown / not yet implemented
+Sorry, protocol %d not yet supported.
+READ_CAP ERROR
+load fw done
+Usage:
+Micom register write addr:%4x and data:%4x
+Write Register Done!
+Micom Pm Sleep Mode:%4x and WakeUp Source:%4x
+Read Register value is %4x
+Please input number: 0 or 1 
+Micom control write command:%4x number:%4x, and data:%4x
+Control Write Done!
+Control Read value is %4x
+I2C read: length is out of range
+data[%d]=%4x
+value=%4x
+Hotel Mode Value=%4x
+Last Power Status Value=%4x
+detect value=%4x
+udata value=%4x
+Micom is alive
+Load Micom firmware
+power on
+m_loadfw
+m_loadfw- InDirect Download Firmware
+command: m_loadfw 
+m_wreg
+m_wreg  - Write MICOM register
+command: m_wreg addr(hex) data(hex)
+m_rreg
+m_rreg  - Read MICOM register
+command: m_rreg addr(hex)
+m_wctrl
+m_wctrl - Sequence Write MICOM register Nick11
+command: m_wctrl cmd(hex) num(hex) data(hex)
+m_rctrl
+m_rctrl - Sequence Read MICOM register
+command: m_rctrl cmd(hex)
+m_sleep
+m_sleep - MICOM Pm Sleep
+command: m_sleep mode(hex) wksource(hex)
+m_i2ci
+m_i2ci  - i2c initialization
+    -i2c initialization!!
+m_i2cr
+m_i2cr  - i2c read 
+ command: m_i2cr slaveID(hex) addr[0](hex) addr[1](hex) alen(hex) len(hex)
+m_i2crb
+m_i2crb - i2c read for one byte
+ command: m_i2crb slaveID(hex) offset(hex)
+m_i2cwb
+m_i2cwb - i2c write for one byte
+ command: m_i2cwb slaveID(hex) offset(hex) value(hex)
+m_run   - run uboot booting process
+    -run uboot booting process!!
+macaddr
+XX:XX:XX:XX:XX:XX
+(Re)start EMAC...
+Usage:
+saveenv
+New MAC Address is %02X:%02X:%02X:%02X:%02X:%02X
+setenv macaddr XX:XX:XX:XX:XX:XX
+setenv macaddr %02X:%02X:%02X:%02X:%02X:%02X
+estart
+estart - EMAC start
+reset  - reset EMAC controller
+start  - start EMAC controller
+macaddr - setup EMAC MAC addr
+XX XX XX XX XX XX
+bad volume creation request
+verify_mkvol_req failed %d
+dynamic
+static
+Creating %s volume %s of size %d
+ubi_remove_vol
+Volume %s found at valid %d
+%s volume not found
+remove UBI volume %s (id %d)
+It's read-only mode
+Error changing Vol tabel record err=%x
+UBI error: %s: cannot remove volume %d, error %d
+ubi_volume_write
+Volume "%s" found at volume id %d
+rsvd_bytes=%d vol->reserved_pebs=%d ubi->leb_size=%d
+vol->data_pad=%d
+Size > volume size !!
+Cannot start volume update=%d
+Couldnt or partially wrote data 
+UBI warning: %s: volume %d on UBI device %d is corrupted
+Volume %s found at volume id %d
+read %i bytes from volume %d to %x(buf address)
+updating
+damaged volume, update marker is set
+Read [%lu] bytes
+read from corrupted volume %d
+NO MEM
+read err %x
+mtd=%d
+Error initializing mtdparts!
+Error, no UBI device/partition selected!
+Device %d: %s, partition %s
+Partition %s not found!
+Partition %s not found on device %s!
+UBI init error %d
+create
+Incorrect type
+remove
+Please see usage
+ubi commands
+part [part] - Show or set current partition
+ubi info [l[ayout]] - Display volume and ubi layout information
+ubi create[vol] volume [size] [type] - create volume name with size
+ubi write[vol] address volume size - Write volume from address with size
+ubi read[vol] address volume [size] - Read volume to address with size
+ubi remove[vol] volume - Remove volume
+[Legends]
+ volume: charater name
+ size: KiB, MiB, GiB, and bytes
+ type: s[tatic] or d[ynamic] (default=dynamic)
+Using volume %s
+ubifs_mount FAIL !!
+ubifs_mount SUCCESS !!
+UBIFS not mounted, use ubifs mount to mount volume first!
+Using filename %s
+%s not found!
+Usage:
+Loading file '%s' to address 0x%08x (size %d)
+ubifsmount
+mount UBIFS volume
+ubifsls
+list files in a directory
+[directory]
+    - list files in a 'directory' (default '/')
+ubifsload
+load file from an UBIFS filesystem
+<addr> <filename> [bytes]
+    - load file 'filename' to address 'addr'
+uif_init
+UBI error: %s: cannot register UBI character devices
+UBI error: %s: cannot add character device
+UBI error: %s: cannot add volume %d
+UBI error: %s: cannot initialize UBI %s, error %d
+io_init
+UBI error: %s: multiple regions, not implemented
+UBI error: %s: min. I/O unit (%d) is not power of 2
+UBI error: %s: unaligned VID header shift %d
+UBI error: %s: bad VID header (%d) or data offsets (%d)
+UBI warning: %s: EC and VID headers are in the same minimal I/O unit, switch to read-only mode
+autoresize
+UBI error: %s: cannot clean auto-resize flag for volume %d
+UBI error: %s: cannot auto-resize volume %d
+ubi_attach_mtd_dev
+UBI error: %s: refuse attaching mtd%d - it is already emulated on top of UBI
+UBI error: %s: cannot spawn "%s", error %d
+ubi_detach_mtd_dev
+UBI error: %s: %s reference count %d, destroy anyway
+ubi_init
+UBI error: %s: too many MTD devices, maximum is %d
+UBI error: %s: cannot create UBI class
+UBI error: %s: cannot create sysfs file
+UBI error: %s: cannot register device
+UBI error: %s: cannot attach mtd%d
+UBI error: %s: UBI error: cannot initialize UBI, error %d
+UBI error: incorrect bytes count: "%s"
+UBI error: too many parameters, max. is %d
+UBI error: parameter "%s" is too long, max. is %d
+UBI warning: empty 'mtd=' parameter - ignored
+UBI error: too many arguments at "%s"
+vtbl_check
+UBI error: %s: bad CRC at record %u: %#08x, not %#08x
+UBI error: %s: volumes %d and %d have the same name "%s"
+UBI error: %s: volume table check failed: record %d, error %d
+process_lvol
+UBI warning: %s: volume table copy #2 is corrupted
+UBI error: %s: both volume tables are corrupted
+UBI warning: %s: volume table copy #1 is corrupted
+init_volumes
+UBI error: %s: more then one auto-resize volume (%d and %d)
+UBI warning: %s: static volume %d misses %d LEBs - corrupted
+layout volume
+UBI error: %s: not enough PEBs, required %d, available %d
+check_sv
+UBI error: %s: bad scanning information, error %d
+check_scanning_info
+UBI error: %s: scanning found %d volumes, maximum is %d + %d
+UBI error: %s: too large volume ID %d found by scanning
+ubi_read_volume_table
+UBI error: %s: the layout volume was not found
+ubi_create_volume
+UBI error: %s: cannot add character device
+UBI error: %s: cannot register device
+UBI error: %s: cannot create volume %d, error %d
+ubi_remove_volume
+UBI error: %s: cannot remove volume %d, error %d
+ubi_add_volume
+UBI error: %s: cannot add character device for volume %d, error %d
+ubi_eba_read_leb
+UBI warning: %s: bad VID header at PEB %d, LEB%d:%d
+UBI warning: %s: CRC error: calculated %#08x, must be %#08x
+ubi_ro_mode
+UBI warning: %s: switch to read-only mode
+recover_peb
+UBI warning: %s: failed to write to PEB %d
+ubi_eba_write_leb
+UBI warning: %s: failed to write data to PEB %d
+UBI warning: %s: failed to write VID header to LEB %d:%d, PEB %d
+UBI warning: %s: failed to write %d bytes at offset %d of LEB %d:%d, PEB %d
+ubi_eba_write_leb_st
+UBI warning: %s: failed to write %d bytes of data to PEB %d
+ubi_eba_atomic_leb_change
+ubi_eba_copy_leb
+UBI warning: %s: error %d while reading data from PEB %d
+UBI warning: %s: cannot read VID header back from PEB %d
+UBI warning: %s: cannot read data back from PEB %d
+UBI warning: %s: read data back from PEB %d - it is different
+ubi_eba_init_scan
+UBI error: %s: no enough physical eraseblocks (%d, need %d)
+UBI warning: %s: cannot reserve enough PEBs for bad PEB handling, reserved %d, need %d
+ubi_io_read
+UBI error: %s: error %d while reading %d bytes from PEB %d:%d, read %zd bytes
+%s[%d] not here
+ubi_io_write
+UBI error: %s: read-only mode
+UBI error: %s: error %d while writing %d bytes to PEB %d:%d, written %zd bytes
+do_sync_erase
+UBI error: %s: cannot erase PEB %d, error %d
+UBI error: %s: interrupted PEB %d erasure
+UBI error: %s: cannot erase PEB %d
+torture_peb
+UBI error: %s: erased PEB %d, but a non-0xFF byte found
+UBI error: %s: pattern %x checking failed for PEB %d
+UBI error: %s: read problems on freshly erased PEB %d, must be bad
+ubi_io_sync_erase
+ubi_io_is_bad
+UBI error: %s: error %d while checking if PEB %d is bad
+ubi_io_mark_bad
+UBI error: %s: cannot mark PEB %d bad, error %d
+validate_ec_hdr
+UBI error: %s: node with incompatible UBI version found: this UBI version is %d, image version is %d
+UBI error: %s: bad VID header offset %d, expected %d
+UBI error: %s: bad data offset %d, expected %d
+UBI error: %s: bad erase counter %lld
+UBI error: %s: bad EC header
+ubi_io_read_ec_hdr
+UBI warning: %s: no EC header found at PEB %d, only 0xFF bytes
+UBI warning: %s: bad magic number at PEB %d: %08x instead of %08x
+UBI warning: %s: bad EC header CRC at PEB %d, calculated %#08x, read %#08x
+UBI error: %s: validation failed for PEB %d
+validate_vid_hdr
+UBI error: %s: bad VID header
+ubi_io_read_vid_hdr
+UBI warning: %s: no VID header found at PEB %d, only 0xFF bytes
+UBI warning: %s: bad CRC at PEB %d, calculated %#08x, read %#08x
+do_work
+UBI error: %s: work failed with error code %d
+ubi_wl_get_peb
+ubi_wl_get_peb
+UBI error: %s: no free eraseblocks
+BUG: failure at %s:%d/%s()!
+sync_erase
+UBI error: %s: erase counter overflow at PEB %d, EC %llu
+wear_leveling_worker
+UBI error: %s: error %d while reading VID header from PEB %d
+UBI error: %s: error %d while moving PEB %d to PEB %d
+ubi_ro_mode
+UBI warning: %s: switch to read-only mode
+erase_worker
+UBI error: %s: failed to erase PEB %d, error %d
+UBI error: %s: bad physical eraseblock %d detected
+UBI error: %s: no reserved physical eraseblocks
+UBI warning: %s: last PEB from the reserved pool was used
+ubi_wl_put_peb
+UBI error: %s: PEB %d not found
+ubi_wl_scrub_peb
+ubi_thread
+UBI error: %s: %s: work failed with error code %d
+ubi_wl_init_scan
+ubi_bgt%dd
+UBI error: %s: no enough physical eraseblocks (%d, need %d)
+add_to_list
+BUG: failure at %s:%d/%s()!
+scan.c
+validate_vid_hdr
+UBI error: %s: inconsistent VID header at PEB %d
+compare_lebs
+UBI error: %s: PEB %d and PEB %d have the same version %lld
+ubi_scan_add_used
+UBI error: %s: two LEBs with same version %u
+UBI error: %s: two LEBs with same sequence number %llu
+ubi_scan_erase_peb
+UBI error: %s: erase counter overflow at PEB %d, EC %d
+ubi_scan_get_free_peb
+UBI error: %s: no eraseblocks found
+process_eb
+UBI error: %s: this UBI version is %d, image version is %d
+UBI error: %s: erase counter overflow, max is %d
+UBI error: %s: incompatible internal volume %d:%d found
+Qkkbal
+-1.0.2, 30-Dec-2001
+Qkkbal
+ %cB%s
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<NULL>
+Error: Bad gzipped data
+Error: gunzip out of data in header
+Error: inflateInit2() returned %d
+Error: inflate() returned %d
+unknown compression method
+invalid window size
+invalid reserved bit
+incorrect header check
+incorrect data check
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid bit length repeat
+oversubscribed dynamic bit lengths tree
+incomplete dynamic bit lengths tree
+oversubscribed literal/length tree
+incomplete literal/length tree
+invalid literal/length code
+invalid distance code
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+Board: MSTAR TITANIA 
+(CPU Speed %d MHz)
+Skipping flash_init
+write_buff not implemented
+_titania_nand_cmdfunc: error, unsupported command.
+*** reset failed ***
+bootargs
+## Loading Ramdisk Image at %08lx ...
+Bad Magic Number
+Bad Header Checksum
+   Verifying Checksum ... 
+Bad Data CRC
+No Linux MIPS Ramdisk Image
+memsize
+0x%08X
+initrd_start
+initrd_size
+flash_start
+flash_size
+Starting kernel ...
+[[application_usb
+[[chakra_usb
+[[conf_usb
+[[font_usb
+[[kernel_usb
+[[opt_usb
+[[rootfs_usb
+[[vendor_usb
+set_config_usb
+usb_auto_update.txt
+application.jffs2
+chakra.jffs2
+conf.jffs2
+font.jffs2
+opt.jffs2
+res.bin
+rootfs.jffs2
+uimage.lzo
+vendor.jffs2
+** Can't read from device %d **
+** Partition %d not valid on device %d **
+entry = %d
+offset = %d bufnum = %d
+Error reading cluster
+Invalid FAT entry
+ %8ld   %s%c
+print the image's number jffs2Num: %d
+print the script's number lookup: %d
+            %s%c
+%d file(s), %d dir(s)
+print the image's number jffs2Num_2: %d
+FAT32   
+FAT12   
+FAT16   
+yanlong.zhang come to here!
+No current device
+Interface:  
+Unknown
+  Device %d: 
+No valid FAT fs found
+Partition %d: Filesystem: %s "%s"
+reading %s
+writing %s
+Invaild file num
+fd:%d, cur_cluster:%d, cursect:%d, offset:%d
+file open failed: unsupported mode
+file exist, and will be recreate
+file exist, in append mode
+file not found
+start_cluster= %d
+write 0
+write 1
+file %s found
+gfd[%d].ent_offset %d %d ent_cluser:%d
+file %s not found
+no compression
+deflate
+ubifs_decompress
+UBIFS error (pid %d): %s: invalid compression type %d
+UBIFS error (pid %d): %s: %s compression is not compiled in
+UBIFS error (pid %d): %s: cannot decompress %d bytes, compressor %s, error %d
+filldir
+%s: Error in ubifs_iget(), ino=%lld ret=%p!
+%ld  %24.24s  
+JanFebMarAprMayJunJulAugSepOctNovDecSunMonTueWedThuFriSat
+%.3s %.3s %.2d %.2d:%.2d:%.2d %d
+ubifs_printdir
+UBIFS error (pid %d): %s: cannot find next direntry, error %d
+dent_key_init_hash
+ubifs_finddir
+%s: Error, no memory for malloc!
+ubifs_ls
+read_block
+UBIFS error (pid %d): %s: bad data node (block %u, inode %lu)
+data_key_init
+do_readpage
+UBIFS error (pid %d): %s: cannot read page %lu of inode %lu, error %d
+ubifs_load
+%s: Error reading inode %ld!
+%s is linked to %s!
+Loading file '%s' to addr 0x%08x with size %d (0x%08x)...
+Error reading file '%s'
+validate_inode
+UBIFS error (pid %d): %s: inode is too large (%lld)
+UBIFS error (pid %d): %s: unknown compression type %d
+UBIFS warning (pid %d): %s: inode %lu uses '%s' compression, but it was not compiled in
+ubifs_compr_present
+ubifs_compr_name
+UBIFS error (pid %d): %s: Error, can't lock (save) more inodes while recovery!!!
+ubifs_iget
+UBIFS error (pid %d): %s: inode %lu validation failed, error %d
+UBIFS error (pid %d): %s: failed to read inode %lu, error %d
+init_constants_early
+UBIFS warning (pid %d): %s: UBI volume is corrupted - read-only mode
+UBIFS: read-only UBI device
+UBIFS: static UBI volume - read-only mode
+UBIFS error (pid %d): %s: too small LEBs (%d bytes), min. is %d bytes
+UBIFS error (pid %d): %s: too few LEBs (%d), min. is %d
+UBIFS error (pid %d): %s: bad min. I/O size %d
+init_constants_sb
+free_orphans
+mount_ubifs
+UBI volume
+UBIFS error (pid %d): %s: can't format empty UBI volume: read-only %s
+UBIFS error (pid %d): %s: cannot mount read-write - read-only media
+UBIFS error (pid %d): %s: 'compressor "%s" is not compiled in
+ubifs_bgt%d_%d
+UBIFS: recovery needed
+UBIFS: recovery deferred
+UBIFS: recovery completed
+UBIFS: mounted UBI device %d, volume %d, name "%s"
+UBIFS: mounted read-only
+UBIFS: file system size:   %lld bytes (%lld KiB, %lld MiB, %d LEBs)
+UBIFS: journal size:       %lld bytes (%lld KiB, %lld MiB, %d LEBs)
+UBIFS: media format:       w%d/r%d (latest is w%d/r%d)
+UBIFS: default compressor: %s
+UBIFS: reserved for root:  %llu bytes (%llu KiB)
+ubifs_umount
+ubifs_fill_super
+UBIFS error (pid %d): %s: the file-system is not R/W-compatible
+UBIFS: on-flash format version is w%d/r%d, but software only supports up to version w%d/r%d
+ubifs_get_sb
+UBIFS error (pid %d): %s: cannot open "%s", error %d
+ubifs_init
+Error reading superblock on volume '%s'!
+validate_sb
+UBIFS error (pid %d): %s: min. I/O unit mismatch: %d in superblock, %d real
+UBIFS error (pid %d): %s: LEB size mismatch: %d in superblock, %d real
+UBIFS error (pid %d): %s: bad LEB count: %d in superblock, %d on UBI volume, %d minimum required
+UBIFS error (pid %d): %s: max. LEB count %d less than LEB count %d
+UBIFS error (pid %d): %s: bad superblock, error %d
+ubifs_read_superblock
+No UBIFS filesystem found!
+UBIFS error (pid %d): %s: on-flash format version is w%d/r%d, but software only supports up to version w%d/r%d
+UBIFS: only R/O mounting is possible
+UBIFS error (pid %d): %s: on-flash format version %d is not supported
+UBIFS error (pid %d): %s: unsupported key format
+validate_master
+UBIFS error (pid %d): %s: bad master node at offset %d error %d
+ubifs_read_master
+UBIFS error (pid %d): %s: bad leb_cnt on master node
+ubifs_calc_lpt_geom
+UBIFS error (pid %d): %s: too few LPT LEBs
+UBIFS error (pid %d): %s: LPT ltab too big
+ubifs_unpack_bits
+ubifs_add_lpt_dirt
+check_lpt_crc
+UBIFS error (pid %d): %s: invalid crc in LPT node: crc %hx calc %hx
+check_lpt_type
+UBIFS error (pid %d): %s: invalid type (%d) in LPT node type %d
+ubifs_read_nnode
+UBIFS error (pid %d): %s: error %d reading nnode at %d:%d
+read_pnode
+UBIFS error (pid %d): %s: error %d reading pnode at %d:%d
+ubifs_lpt_lookup
+dirty_cow_nnode
+dirty_cow_pnode
+ubifs_lpt_lookup_dirty
+lpt_init_rd
+scan_padding_bytes
+ubifs_scan_a_node
+UBIFS error (pid %d): %s: bad pad node at LEB %d:%d
+ubifs_start_scan
+UBIFS error (pid %d): %s: cannot read %d bytes from LEB %d:%d, error %d
+ubifs_end_scan
+ubifs_scanned_corruption
+UBIFS error (pid %d): %s: corrupted data at LEB %d:%d
+ubifs_scan
+UBIFS error (pid %d): %s: corrupt empty space at LEB %d:%d
+UBIFS error (pid %d): %s: LEB %d scanning failed
+add_to_lpt_heap
+remove_from_lpt_heap
+ubifs_add_to_cat
+ubifs_remove_from_cat
+ubifs_replace_cat
+ubifs_categorize_lprops
+calc_dark
+ubifs_change_lp
+ubifs_release_lprops
+ubifs_fast_find_free
+ubifs_fast_find_empty
+ubifs_fast_find_freeable
+ubifs_fast_find_frdi_idx
+insert_old_idx
+UBIFS error (pid %d): %s: old idx added twice!
+copy_znode
+lnc_add
+lnc_add_directly
+tnc_read_node_nm
+try_read_node
+UBIFS error (pid %d): %s: cannot read node type %d from LEB %d:%d, error %d
+fallible_read_node
+resolve_collision
+fallible_matches_name
+fallible_resolve_collision
+dirty_cow_bottom_up
+ubifs_lookup_level0
+lookup_level0_dirty
+validate_data_node
+UBIFS error (pid %d): %s: bad node type (%d but expected %d)
+UBIFS error (pid %d): %s: expected node type %d
+UBIFS error (pid %d): %s: bad node length %d, expected %d
+UBIFS error (pid %d): %s: bad key in node at LEB %d:%d
+UBIFS error (pid %d): %s: bad node at LEB %d:%d
+ubifs_tnc_bulk_read
+UBIFS error (pid %d): %s: buffer too small %d vs %d
+UBIFS error (pid %d): %s: failed to read from LEB %d:%d, error %d
+do_lookup_nm
+correct_parent_keys
+insert_zbranch
+tnc_insert
+ubifs_tnc_add
+ubifs_tnc_replace
+ubifs_tnc_add_nm
+tnc_delete
+ubifs_tnc_remove
+ubifs_tnc_remove_nm
+ubifs_tnc_remove_range
+ubifs_tnc_remove_ino
+ubifs_tnc_next_ent
+ubifs_tnc_levelorder_next
+ubifs_search_zbranch
+ubifs_tnc_postorder_next
+read_znode
+UBIFS error (pid %d): %s: bad indexing node at LEB %d:%d, error %d
+ubifs_load_znode
+ubifs_tnc_read_node
+UBIFS error (pid %d): %s: bad key in node at LEB %d:%d
+@@ubifs_leb_unmap
+UBIFS error (pid %d): %s: unmap LEB %d failed, error %d
+insert_dead_orphan
+do_kill_orphans
+UBIFS error (pid %d): %s: invalid node type %d in orphan area at %d:%d
+UBIFS error (pid %d): %s: out of order commit number %llu in orphan node at %d:%d
+kill_orphans
+get_master_node
+write_rcvrd_mst_node
+ubifs_recover_master_node
+UBIFS error (pid %d): %s: failed to recover master node
+clean_buf
+no_more_nodes
+fix_unclean_leb
+drop_incomplete_group
+ubifs_recover_leb
+UBIFS error (pid %d): %s: corrupt empty space at LEB %d:%d
+UBIFS error (pid %d): %s: LEB %d scanning failed
+get_cs_sqnum
+UBIFS error (pid %d): %s: failed to get CS sqnum
+ubifs_recover_log_leb
+UBIFS error (pid %d): %s: unrecoverable log corruption in LEB %d
+recover_head
+ubifs_leb_unmap
+UBIFS error (pid %d): %s: unmap LEB %d failed, error %d
+ubifs_recover_inl_heads
+clean_an_unclean_leb
+UBIFS error (pid %d): %s: unexpected empty space at %d:%d
+ubifs_clean_lebs
+ubifs_recover_size
+set_bud_lprops
+ubifs_release_lprops
+data_key_init
+apply_replay_entry
+insert_node
+UBIFS error (pid %d): %s: duplicate sqnum in replay
+insert_dent
+ubifs_validate_entry
+directory entry
+extended attribute entry
+UBIFS error (pid %d): %s: bad %s node
+UBIFS error (pid %d): %s: bad key type %d
+replay_bud
+replay_bud
+UBIFS error (pid %d): %s: file system's life ended
+UBIFS error (pid %d): %s: bad truncation node
+UBIFS error (pid %d): %s: unexpected node type %d in bud LEB %d:%d
+BUG: failure at %s:%d/%s()!
+replay.c
+UBIFS error (pid %d): %s: bad node is at LEB %d:%d
+insert_ref_node
+UBIFS error (pid %d): %s: duplicate sqnum in replay tree
+add_replay_bud
+validate_ref
+UBIFS error (pid %d): %s: bud at LEB %d:%d was already referred
+replay_log_leb
+UBIFS error (pid %d): %s: unexpected node in log
+UBIFS error (pid %d): %s: log error detected while replying the log at LEB %d:%d
+ubifs_replay_journal
+UBIFS error (pid %d): %s: bad index head LEB %d:%d
+ubifs_ro_mode
+UBIFS warning (pid %d): %s: switched to read-only mode, error %d
+ubifs_check_node
+UBIFS error (pid %d): %s: bad magic %#08x, expected %#08x
+UBIFS error (pid %d): %s: bad node type %d
+UBIFS error (pid %d): %s: bad CRC: calculated %#08x, read %#08x
+UBIFS error (pid %d): %s: bad node length %d
+UBIFS error (pid %d): %s: bad node at LEB %d:%d
+ubifs_pad
+next_sqnum
+UBIFS error (pid %d): %s: sequence number overflow %llu, end of life
+UBIFS warning (pid %d): %s: running out of sequence numbers, end of life soon
+ubifs_prepare_node
+ubifs_read_node
+UBIFS error (pid %d): %s: cannot read node %d from LEB %d:%d, error %d
+UBIFS error (pid %d): %s: bad node type (%d but expected %d)
+UBIFS error (pid %d): %s: expected node type %d
+UBIFS error (pid %d): %s: bad node length %d, expected %d
+ubifs_add_bud
+read_nand_cached: can't alloc cache size %d bytes
+read_nand_cached: error reading nand off %#x size %d bytes
+get_fl_mem_nand: can't alloc %d bytes
+off = %#x magic %#x type %#x node.totlen = %d
+RUBINMIPS
+DYNRUBIN
+add_node: malloc failed
+add_node failed!
+get_fl_mem: unknown device type, using raw offset!
+%s %08x
+UNKOWN COMPRESSION METHOD = 
+get_node_mem: unknown device type, using raw offset!
+ ** ERROR ** 
+ has dup version =
+ %s %8ld %s %s
+JanFebMarAprMayJunJulAugSepOctNovDecSunMonTueWedThuFriSat
+%.3s %.3s %.2d %.2d:%.2d:%.2d %d
+find_inode failed for name=
+ has dup version (resolve) = 
+Scanning JFFS2 FS:   
+OOPS Cleanmarker has bad size %d != %d
+OOPS Padding has bad size %d < %d
+Unknown node type: %x len %d offset 0x%x
+ done.
+%s: Failed to scan JFFSv2 file structure
+ls: Failed to scan jffs2 file structure
+load: Failed to find inode
+load: Failed to resolve inode structure
+load: Failed to read inode
+Compression: %s
+frag count: %d
+compressed sum: %d
+uncompressed sum: %d
+not available
+(%d:%d) 
+Model: %s Firm: %s Ser#: %s
+Vendor: %s Prod.: %s Rev: %s
+            Type: 
+Removable 
+Hard Disk
+CD ROM
+Optical Device
+# %02X #
+            Capacity: %ld.%ld MB = %ld.%ld GB (%ld x %ld)
+            Capacity: not available
+Partition Map for 
+UNKNOWN
+ device %d  --   Partition Type: %s
+## Unknown partition table
+** Can't read partition table on %d:%d **
+bad MBR sector signature 0x%02x%02x
+         0
+hd%c%d
+sd%c%d
+usbd%c%d
+docd%c%d
+xx%c%d
+U-Boot
+Partition     Start Sector     Num Sectors     Type
+bulk max packet size:%x
+Interval Input Error...
+??? Input Error 'flib_Host20_Periodic_Setting'...
+??? Waiting for Peripheral Connecting Fail...
+??? Input Error 'flib_Host20_StopRun_Setting'...
+??? Input Error 'flib_Host20_Asynchronous_Setting'...
+??? Error waiting for Bus Reset Fail...==> Reset HW Control
+Host type:%x 
+QTD:%x -> 
+addr:%x -> 
+ADDR %x -> 
+QTD underrun!
+??? Memory release area fail...
+??? qHD Status => Halted (<1>.Stall/<2>.Babble/<3>.Error Counter=0)...(Device Not Supported...)
+??? qHD Status => HOST20_qTD_STATUS_Babble...
+error, timeout sec is zero
+device disconn
+>>> Fail => Time Out for Send qTD...
+bulk max packet size:%x
+??? Waiting for Peripheral Connecting Fail...
+??? Input Error 'flib_Host20_StopRun_Setting'...
+??? Input Error 'flib_Host20_Asynchronous_Setting'...
+??? Error waiting for Bus Reset Fail...==> Reset HW Control
+Host type:%x 
+QTD underrun!
+??? Memory release area fail...
+error, timeout sec is zero
+device disconn
+>>> Fail => Time Out for Send qTD...
+usb lan init
+%s - device reset failed 
+Addr1_VA=0x%08lx, Addr2_VA=0x%08lx
+%02X: %02X %02X
+============================================
+aes_dma_test u32srcPA=0x%lx, u32dstPA=0x%lx, u32FileLength=0x%lx
+aes_dma_test fail at 0x%lx byte
+aes_ecb_decrypt u32srcPA=0x%lx, u32dstPA=0x%lx, u32FileLength=0x%lx
+ unknown FLASH
+Timeout!!!!
+[1;31m
+Error!!! u16ByteIdxofPage=%d, u16Len=%d!
+ERROR> wait for write to be done fail !!!
+Erase all chip Done!
+Erase all chip fail!
+Erase Block %d Done!
+Erase Block %d fail!
+write cmd wait write done fail
+status: %d
+Write Protect Done!
+Write Protect Fails!
+Error> DMA timeout!
+Rx Ok:%u
+ALE:%u
+ELR:%u
+SEQE:%u
+ROVR:%u
+RJB:%u
+Tx Ok:%u
+TUE:%u
+CSE:%u
+SQEE:%u
+phy [%d]=%x
+MAC Address %02X:%02X:%02X:%02X:%02X:%02X
+ETH_MAN=0x%X
+EMAC Mem Base:%lx
+MMAP overflow: %lx > %lx
+Rx buff:%lx
+RBQP:%lx
+ethaddr
+PHY_ID
+phy_id=%d
+usb init failed
+usb init failed
+ Eeep. Autoplacement selected and no empty space in oob
+Skipping bad block at  0x%08x                                            
+%s: MTD get bad block failed: %d
+%s: MTD Erase failure: %d
+%s: MTD writeoob failure: %d
+%s: this erase routine only supports NAND devices!
+Erasing at 0x%x -- %3d%% complete.
+ Cleanmarker written at 0x%x.
+Can't pad when oob data is present.
+Unknown flash (not normal NAND)
+YAFSS cannot operate on 256 Byte page size
+Input block length is not page aligned
+Image %d bytes, NAND page %d bytes, OOB area %u bytes, device size %u bytes
+Input block does not fit into device
+Bad block check failed
+Bad block at 0x%lx in erase block from 0x%x will be skipped
+MTD writeoob failure: %d
+writing NAND page at offset 0x%lx failed
+Writing data at 0x%x -- %3d%% complete.
+Data did not fit into device, due to bad blocks
+Input block is larger than device
+reading NAND page at offset 0x%lx failed
+MTD readoob failure: %d
+Reading data from 0x%x -- %3d%% complete.
+Could not read entire image due to bad blocks
+nand_get_lock_status: Start address must be beginning of nand page!
+nand_unlock: start: %08x, length: %d!
+nand_unlock: Device is write protected!
+nand_unlock: Start address must be beginning of nand page!
+nand_unlock: Length must be a multiple of nand page size!
+ubi_open_volume
+UBI warning: %s: volume %d on UBI device %d is corrupted
+ubi_leb_read
+UBI warning: %s: mark volume %d as corrupted
+MDrv_MMIO_GetBASE fail
+HAL_MMIO_GetType ERROR can't find type=%lx
+Bbt01tbB
+MSVC00B000100100163682AA0000000T
+        
+bootdelay=3
+baudrate=115200
+preboot=echo;echo Type "help" for more commands.
+AAAAAA
+BBBBBB
+MSIF00
+0DMA_0101001349430
+22222222
+`@rfd2(3
+ Mm)ks
+J/?/069h
+]WK\^Q
+*bX{k>
+-?VCK;
+32W_Sharp LCD
+      
+MB61_SHARP_Mboot_V119.bin

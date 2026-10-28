@@ -1,0 +1,262 @@
+<U-Boot 1.1.6 (Oct  1 2010 - 21:24:22)
+Reading data from NAND FLASH without ECC is not recommended
+NAND device: Manufacturer ID: 0x%02x, Chip ID: 0x%02x (%s %s)
+NAND bus width %d instead %d bit
+No NAND device found!!!
+%d NAND chips detected
+NAND 1MiB 5V 8-bit
+NAND 2MiB 5V 8-bit
+NAND 4MiB 5V 8-bit
+NAND 1MiB 3,3V 8-bit
+NAND 2MiB 3,3V 8-bit
+NAND 4MiB 3,3V 8-bit
+NAND 8MiB 3,3V 8-bit
+NAND 8MiB 1,8V 8-bit
+NAND 8MiB 1,8V 16-bit
+NAND 8MiB 3,3V 16-bit
+NAND 16MiB 1,8V 8-bit
+NAND 16MiB 3,3V 8-bit
+NAND 16MiB 1,8V 16-bit
+NAND 16MiB 3,3V 16-bit
+NAND 32MiB 1,8V 8-bit
+NAND 32MiB 3,3V 8-bit
+NAND 32MiB 1,8V 16-bit
+NAND 32MiB 3,3V 16-bit
+NAND 64MiB 1,8V 8-bit
+NAND 64MiB 3,3V 8-bit
+NAND 64MiB 1,8V 16-bit
+NAND 64MiB 3,3V 16-bit
+NAND 128MiB 1,8V 8-bit
+NAND 128MiB 3,3V 8-bit
+NAND 128MiB 1,8V 16-bit
+NAND 128MiB 3,3V 16-bit
+NAND 256MiB 3,3V 8-bit
+NAND 512MiB 3,3V 8-bit
+NAND 64MiB 3.3V 8-bit
+NAND 256MiB 1,8V 8-bit
+NAND 256MiB 1,8V 16-bit
+NAND 256MiB 3,3V 16-bit
+NAND 512MiB 1,8V 8-bit
+NAND 512MiB 1,8V 16-bit
+NAND 512MiB 3,3V 16-bit
+NAND 1GiB 1,8V 8-bit
+NAND 1GiB 3,3V 8-bit
+NAND 1GiB 1,8V 16-bit
+NAND 1GiB 3,3V 16-bit
+NAND 2GiB 1,8V 8-bit
+NAND 2GiB 3,3V 8-bit
+NAND 2GiB 1,8V 16-bit
+NAND 2GiB 3,3V 16-bit
+console=ttyS0,115200 ubi.mtd=1 ubi.mtd=2,512 root=ubi1:RFS rootfstype=ubifs rw LX_MEM=0x1B00000 EMAC_MEM=0x200000 DRAM_LEN=0x10000000 LX_MEM2=0xA800000,0x1800000
+nand read.e 81000000 KL; bootm 81000000;
+MBOOT_VER=119
+mtdparts=edb64M-nand:3200k(KL),11392k(CONF),22560k(UBIA),25616k(UBIB),-(NA)
+bootargs
+bootargs_default not defined, no default present
+MBOOT_VER=
+mboot version no found
+mboot version found
+mboot version no match
+mboot version match:%s
+bootcmd
+ #* NAND is already programmed (not Empty) ***
+ #* NAND is NOT programmed yet (Empty) ***
+#* NAND programming completed
+usb_auto_update.txt
+ubi part UBIB
+nand erase clean KL
+nand write.e %X KL %X
+nand erase clean UBIA
+ubi part UBIA
+ubi create RFS %X
+ubi create VEN %X
+ubi write %X RFS %X
+ubi write %X VEN %X
+nand read.e %X %s %X
+nand erase %s %X
+nand write.e %X %s %X
+bootargs
+mtdparts=edb64M-nand:3200k(KL),11392k(CONF),22560k(UBIA),25616k(UBIB),-(NA)
+no such NAND device: %s%d (valid range 0 ... %d)
+mtdparts=
+mtdparts
+mtdparts: %s
+generated mtdparts too long, reseting to null
+mtdparts variable doesn't start with 'mtdparts='
+device %s%d redefined, please correct mtdparts variable
+mtdparts not defined, no default present
+mtdparts too long (> %d)
+mtdparts_init: no valid partitions
+mtdparts- define flash/nand partitions
+mtdparts delall
+mtdparts del part-id
+mtdparts add <mtd-dev> <size>[@<offset>] [<name>] [ro]
+mtdparts default
+'mtdparts' - partition list
+mtdparts=mtdparts=<mtd-def>[;<mtd-def>...]
+    - sets 'mtdparts' according to <mtd-def>/'dynparts' and BBT (it is better to set the last partition size to SIZE_REMAINING)
+not a NAND device
+NAND %s: 
+Really scrub this NAND flash? <y/N>
+NAND flash successfully locked
+Error locking NAND flash
+NAND flash successfully unlocked
+Error unlocking NAND flash, write and erase will probably fail
+Not a NAND device
+NAND Clock mode :%4x and Clock:%4d MHz
+nand    - NAND sub-system
+info                  - show available NAND devices
+nand device [dev]     - show or set current device
+nand read[.jffs2]     - addr off|partition size
+nand write[.jffs2]    - addr off|partiton size - read/write `size' bytes starting
+nand erase [clean] [off size] - erase `size' bytes from
+nand eloop [loop]- erase all for loop 
+nand bad - show bad blocks
+nand dump[.oob] off - dump page
+nand scrub - really clean NAND erasing bad blocks (UNSAFE)
+nand markbad off - mark bad block at offset (UNSAFE)
+nand biterr off - make a bit error at offset (UNSAFE)
+nand lock [tight] [status] - bring nand to lock state or display locked pages
+nand unlock [offset] [size] - unlock section
+nboot   - boot from NAND device
+nandclk - tune nand clock
+pnlinfo   - set panel info and save to nand flahs
+sysinfo   - set system info and save to nand flahs
+cpmsbin   - Copy ms bin file (Chakra) from nand to dram
+remove UBI volume %s (id %d)
+UBI error: %s: cannot remove volume %d, error %d
+UBI warning: %s: volume %d on UBI device %d is corrupted
+Error initializing mtdparts!
+Error, no UBI device/partition selected!
+UBI init error %d
+ubi commands
+ubi info [l[ayout]] - Display volume and ubi layout information
+ubi create[vol] volume [size] [type] - create volume name with size
+ubi write[vol] address volume size - Write volume from address with size
+ubi read[vol] address volume [size] - Read volume to address with size
+ubi remove[vol] volume - Remove volume
+UBI error: %s: cannot register UBI character devices
+UBI error: %s: cannot add character device
+UBI error: %s: cannot add volume %d
+UBI error: %s: cannot initialize UBI %s, error %d
+UBI error: %s: multiple regions, not implemented
+UBI error: %s: min. I/O unit (%d) is not power of 2
+UBI error: %s: unaligned VID header shift %d
+UBI error: %s: bad VID header (%d) or data offsets (%d)
+UBI warning: %s: EC and VID headers are in the same minimal I/O unit, switch to read-only mode
+UBI error: %s: cannot clean auto-resize flag for volume %d
+UBI error: %s: cannot auto-resize volume %d
+UBI error: %s: refuse attaching mtd%d - it is already emulated on top of UBI
+UBI error: %s: cannot spawn "%s", error %d
+UBI error: %s: %s reference count %d, destroy anyway
+UBI error: %s: too many MTD devices, maximum is %d
+UBI error: %s: cannot create UBI class
+UBI error: %s: cannot create sysfs file
+UBI error: %s: cannot register device
+UBI error: %s: cannot attach mtd%d
+UBI error: %s: UBI error: cannot initialize UBI, error %d
+UBI error: incorrect bytes count: "%s"
+UBI error: too many parameters, max. is %d
+UBI error: parameter "%s" is too long, max. is %d
+UBI warning: empty 'mtd=' parameter - ignored
+UBI error: too many arguments at "%s"
+UBI error: %s: bad CRC at record %u: %#08x, not %#08x
+UBI error: %s: volumes %d and %d have the same name "%s"
+UBI error: %s: volume table check failed: record %d, error %d
+UBI warning: %s: volume table copy #2 is corrupted
+UBI error: %s: both volume tables are corrupted
+UBI warning: %s: volume table copy #1 is corrupted
+UBI error: %s: more then one auto-resize volume (%d and %d)
+UBI warning: %s: static volume %d misses %d LEBs - corrupted
+UBI error: %s: not enough PEBs, required %d, available %d
+UBI error: %s: bad scanning information, error %d
+UBI error: %s: scanning found %d volumes, maximum is %d + %d
+UBI error: %s: too large volume ID %d found by scanning
+UBI error: %s: the layout volume was not found
+UBI error: %s: cannot add character device
+UBI error: %s: cannot register device
+UBI error: %s: cannot create volume %d, error %d
+UBI error: %s: cannot remove volume %d, error %d
+UBI error: %s: cannot add character device for volume %d, error %d
+UBI warning: %s: bad VID header at PEB %d, LEB%d:%d
+UBI warning: %s: CRC error: calculated %#08x, must be %#08x
+UBI warning: %s: switch to read-only mode
+UBI warning: %s: failed to write to PEB %d
+UBI warning: %s: failed to write data to PEB %d
+UBI warning: %s: failed to write VID header to LEB %d:%d, PEB %d
+UBI warning: %s: failed to write %d bytes at offset %d of LEB %d:%d, PEB %d
+UBI warning: %s: failed to write %d bytes of data to PEB %d
+UBI warning: %s: error %d while reading data from PEB %d
+UBI warning: %s: cannot read VID header back from PEB %d
+UBI warning: %s: cannot read data back from PEB %d
+UBI warning: %s: read data back from PEB %d - it is different
+UBI error: %s: no enough physical eraseblocks (%d, need %d)
+UBI warning: %s: cannot reserve enough PEBs for bad PEB handling, reserved %d, need %d
+UBI error: %s: error %d while reading %d bytes from PEB %d:%d, read %zd bytes
+UBI error: %s: read-only mode
+UBI error: %s: error %d while writing %d bytes to PEB %d:%d, written %zd bytes
+UBI error: %s: cannot erase PEB %d, error %d
+UBI error: %s: interrupted PEB %d erasure
+UBI error: %s: cannot erase PEB %d
+UBI error: %s: erased PEB %d, but a non-0xFF byte found
+UBI error: %s: pattern %x checking failed for PEB %d
+UBI error: %s: read problems on freshly erased PEB %d, must be bad
+UBI error: %s: error %d while checking if PEB %d is bad
+UBI error: %s: cannot mark PEB %d bad, error %d
+UBI error: %s: node with incompatible UBI version found: this UBI version is %d, image version is %d
+UBI error: %s: bad VID header offset %d, expected %d
+UBI error: %s: bad data offset %d, expected %d
+UBI error: %s: bad erase counter %lld
+UBI error: %s: bad EC header
+UBI warning: %s: no EC header found at PEB %d, only 0xFF bytes
+UBI warning: %s: bad magic number at PEB %d: %08x instead of %08x
+UBI warning: %s: bad EC header CRC at PEB %d, calculated %#08x, read %#08x
+UBI error: %s: validation failed for PEB %d
+UBI error: %s: bad VID header
+UBI warning: %s: no VID header found at PEB %d, only 0xFF bytes
+UBI warning: %s: bad CRC at PEB %d, calculated %#08x, read %#08x
+UBI error: %s: work failed with error code %d
+UBI error: %s: no free eraseblocks
+UBI error: %s: erase counter overflow at PEB %d, EC %llu
+UBI error: %s: error %d while reading VID header from PEB %d
+UBI error: %s: error %d while moving PEB %d to PEB %d
+UBI warning: %s: switch to read-only mode
+UBI error: %s: failed to erase PEB %d, error %d
+UBI error: %s: bad physical eraseblock %d detected
+UBI error: %s: no reserved physical eraseblocks
+UBI warning: %s: last PEB from the reserved pool was used
+UBI error: %s: PEB %d not found
+UBI error: %s: %s: work failed with error code %d
+UBI error: %s: no enough physical eraseblocks (%d, need %d)
+UBI error: %s: inconsistent VID header at PEB %d
+UBI error: %s: PEB %d and PEB %d have the same version %lld
+UBI error: %s: two LEBs with same version %u
+UBI error: %s: two LEBs with same sequence number %llu
+UBI error: %s: erase counter overflow at PEB %d, EC %d
+UBI error: %s: no eraseblocks found
+UBI error: %s: this UBI version is %d, image version is %d
+UBI error: %s: erase counter overflow, max is %d
+UBI error: %s: incompatible internal volume %d:%d found
+bootargs
+[[rootfs_usb
+usb_auto_update.txt
+rootfs.jffs2
+UBIFS warning (pid %d): %s: UBI volume is corrupted - read-only mode
+UBIFS: read-only UBI device
+UBIFS: static UBI volume - read-only mode
+UBI volume
+UBIFS error (pid %d): %s: can't format empty UBI volume: read-only %s
+UBIFS: mounted UBI device %d, volume %d, name "%s"
+UBIFS error (pid %d): %s: bad LEB count: %d in superblock, %d on UBI volume, %d minimum required
+read_nand_cached: error reading nand off %#x size %d bytes
+%s: this erase routine only supports NAND devices!
+Image %d bytes, NAND page %d bytes, OOB area %u bytes, device size %u bytes
+writing NAND page at offset 0x%lx failed
+reading NAND page at offset 0x%lx failed
+nand_get_lock_status: Start address must be beginning of nand page!
+nand_unlock: Start address must be beginning of nand page!
+nand_unlock: Length must be a multiple of nand page size!
+UBI warning: %s: volume %d on UBI device %d is corrupted
+UBI warning: %s: mark volume %d as corrupted
+32W_Sharp LCD
+MB61_SHARP_Mboot_V119.bin
